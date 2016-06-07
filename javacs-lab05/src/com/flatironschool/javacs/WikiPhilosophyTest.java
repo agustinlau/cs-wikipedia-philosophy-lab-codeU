@@ -33,4 +33,8 @@ public class WikiPhilosophyTest {
 		}
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e459954e2c4bf1f4422d5847bc1d89ac36c4ae59
